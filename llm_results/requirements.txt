@@ -1,8 +1,0 @@
-pandas
-pymongo
-asyncio
-httpx
-openai 
-langchain
-fastapi 
-uvicorn
