@@ -1,3 +1,5 @@
+# Ignore le fichier .env contenant les informations sensibles
+.env
+
+# Ignore le dossier de l'environnement virtuel
 venv/
-.DS_Store
-node_modules/
